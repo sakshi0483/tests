@@ -1,3 +1,3 @@
 # tests
 
-this is report about the github session
+this is repo about the github session
